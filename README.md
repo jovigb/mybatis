@@ -1,2 +1,2 @@
 # mybatis
-algorithm exercise
+custom mini-mybatis exercise
